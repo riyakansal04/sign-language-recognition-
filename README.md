@@ -58,7 +58,7 @@ The **Convolutional Neural Network (CNN)** used in this project follows a simple
 
 Input Image → Conv2D → ReLU → Pooling → Conv2D → ReLU → Pooling → Flatten → Dense → Output (Letter)
 
-![CNN Architecture](images/cnn_architecture.png)
+![CNN Architecture](CNN%20architecture.png)
 
 ---
 
@@ -98,7 +98,7 @@ The BBO algorithm models the process of **species migration between habitats**:
 5. **Termination**  
    - Repeat migration and mutation until best solution found.  
 
-![BBO Flow](images/bbo_flow.png)
+![BBO Optimization](BBO%20optimization.jpg)
 
 ---
 
@@ -112,9 +112,9 @@ The BBO algorithm models the process of **species migration between habitats**:
 ## 🧑‍💻 How to Run
 
 1. Clone the repository:
-  ```bash
-  git clone https://github.com/riyakansal04/sign-language-to-text.git
-  cd sign-language-to-text
+    ```bash
+    git clone https://github.com/riyakansal04/sign-language-to-text.git
+    cd sign-language-to-text
 
 2. Install dependencies:
     ```bash
